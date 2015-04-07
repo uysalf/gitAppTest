@@ -10,7 +10,7 @@ namespace gitAppTest
     {
         static void Main(string[] args)
         {
-            //szsu
+            //2.proje
         }
     }
 }
