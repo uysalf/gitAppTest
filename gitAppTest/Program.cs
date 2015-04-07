@@ -14,7 +14,7 @@ namespace gitAppTest
             //1. proje
             //2.proje ilave
             //1.proje ilav
-            //2.proje 2.ilave
+            //2.proje 2.ilave 
            
         }
     }
