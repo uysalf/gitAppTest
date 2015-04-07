@@ -10,6 +10,7 @@ namespace gitAppTest
     {
         static void Main(string[] args)
         {
+            //szs
         }
     }
 }
