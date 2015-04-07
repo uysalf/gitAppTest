@@ -11,6 +11,7 @@ namespace gitAppTest
         static void Main(string[] args)
         {
             //2.proje
+            //1. proje
         }
     }
 }
