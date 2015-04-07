@@ -10,7 +10,7 @@ namespace gitAppTest
     {
         static void Main(string[] args)
         {
-            //1. kodlama
+            //1. kodlamaju
         }
     }
 }
